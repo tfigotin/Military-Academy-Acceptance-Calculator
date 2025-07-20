@@ -1,0 +1,82 @@
+************************************************************
+*  PROGRAMMED BY  : Tamar Figotin 
+*  ASSIGNMENT #6  : Boolean Expressions - Military Academy
+************************************************************
+
+Please enter the candidate's information (enter 'X' to exit).
+Sex:      M
+Height:   65
+Weight:   250
+
+This candidate has been ACCEPTED!
+
+
+Please enter the candidate's information (enter 'X' to exit).
+Sex:      m
+Height:   64
+Weight:   130
+
+This candidate has been rejected based on the HEIGHT requirement.
+
+
+Please enter the candidate's information (enter 'X' to exit).
+Sex:      M
+Height:   80
+Weight:   251
+
+This candidate has been rejected based on the WEIGHT requirement.
+
+
+Please enter the candidate's information (enter 'X' to exit).
+Sex:      male
+Height:   81
+Weight:   129
+
+This candidate has been rejected based on the HEIGHT and WEIGHT requirement.
+
+
+Please enter the candidate's information (enter 'X' to exit).
+Sex:      F
+Height:   75
+Weight:   110
+
+This candidate has been ACCEPTED!
+
+
+Please enter the candidate's information (enter 'X' to exit).
+Sex:      f
+Height:   76
+Weight:   185
+
+This candidate has been rejected based on the HEIGHT requirement.
+
+
+Please enter the candidate's information (enter 'X' to exit).
+Sex:      female
+Height:   62
+Weight:   109
+
+This candidate has been rejected based on the WEIGHT requirement.
+
+
+Please enter the candidate's information (enter 'X' to exit).
+Sex:      F
+Height:   61
+Weight:   186
+
+This candidate has been rejected based on the HEIGHT and WEIGHT requirement.
+
+
+Please enter the candidate's information (enter 'X' to exit).
+Sex:      F
+Height:   63
+Weight:   110
+
+This candidate has been ACCEPTED!
+
+
+Please enter the candidate's information (enter 'X' to exit).
+Sex:      x
+
+3 candidate(s) accepted!
+That's 33%!

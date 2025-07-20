@@ -1,0 +1,52 @@
+************************************************************
+*  PROGRAMMED BY  : Tamar Figotin 
+*  ASSIGNMENT #6  : Boolean Expressions - Military Academy
+************************************************************
+
+Please enter the candidate's information (enter 'X' to exit).
+Sex:      g
+INVALID INPUT!
+Sex:      J
+INVALID INPUT!
+Sex:      m
+Height:   23
+INVALID INPUT!
+Height:   111
+INVALID INPUT!
+Height:   80
+Weight:   49
+INVALID INPUT!
+Weight:   1401
+INVALID INPUT!
+Weight:   130
+
+This candidate has been ACCEPTED!
+
+
+Please enter the candidate's information (enter 'X' to exit).
+Sex:      sale
+INVALID INPUT!
+Sex:      male
+Height:   65
+Weight:   250
+
+This candidate has been ACCEPTED!
+
+
+Please enter the candidate's information (enter 'X' to exit).
+Sex:      gemale
+INVALID INPUT!
+Sex:      female
+Height:   62
+Weight:   -109
+INVALID INPUT!
+Weight:   109
+
+This candidate has been rejected based on the WEIGHT requirement.
+
+
+Please enter the candidate's information (enter 'X' to exit).
+Sex:      x
+
+2 candidate(s) accepted!
+That's 67%!
